@@ -1,0 +1,6 @@
+---
+source: src/openai.rs
+expression: serialized
+---
+"[{\"role\":\"system\",\"content\":\"Hello, world!\"},{\"role\":\"user\",\"content\":\"Hello, world!\"},{\"role\":\"assistant\",\"content\":\"Hello, world!\"}]"
+
